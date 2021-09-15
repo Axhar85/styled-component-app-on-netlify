@@ -12,7 +12,7 @@ const HeaderContainer = styled.div`
 
 const Header = () => (
     <HeaderContainer>
-        <p>New header after changing stuff</p>
+        <p>This is my Header</p>
     </HeaderContainer>
 )
 
