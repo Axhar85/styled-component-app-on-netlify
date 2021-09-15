@@ -1,3 +1,10 @@
+
+<h1 align="center">Created the app using styled components</h1>
+
+### ✨ [Live demo](https://wonderful-swanson-821b55.netlify.app/)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
