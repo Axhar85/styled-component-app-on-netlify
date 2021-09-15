@@ -1,6 +1,8 @@
 
 <h1 align="center">Created the app using styled components</h1>
 
+> Create a React app using styled component and also atoms and also on Netlify so can have a view.
+
 ### ✨ [Live demo](https://wonderful-swanson-821b55.netlify.app/)
 
 
