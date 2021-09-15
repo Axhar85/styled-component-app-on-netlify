@@ -1,10 +1,19 @@
-import logo from './logo.svg';
+import React from 'react';
+
+import Content from './components/Content';
+import Footer from './components/Footer';
+import Header from './components/Header';
+import Navbar from './components/Navbar';
+
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <Navbar />
+      <Header />
+      <Content />
+      <Footer />
     </div>
   );
 }
